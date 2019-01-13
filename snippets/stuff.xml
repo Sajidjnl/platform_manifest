@@ -9,7 +9,7 @@
   <!-- SmartNav -->
   <project path="packages/apps/Settings" name="kapiljhajhria/android_packages_apps_Settings" 
 remote="gt" revision="lineage-16.0" />
-	<project path="packages/apps/Settings" name="kapiljhajhria/android_packages_apps_Dialer" 
+	<project path="packages/apps/Dialer" name="kapiljhajhria/android_packages_apps_Dialer" 
 remote="gt" revision="lineage-16.0" />
   <project path="frameworks/base" 
 name="kapiljhajhria/android_frameworks_base" remote="gt" revision="lineage-16.0" />
