@@ -21,8 +21,8 @@ name="kapiljhajhria/android_packages_services_Telecomm" remote="gt" revision="li
 remote="gt" revision="lineage-16.0"/>
   <project path="vendor/MiuiCamera" name="kapiljhajhria/vendor_MiuiCamera" 
 remote="gt" revision="pie-whyred"/>
-  <project path="vendor/xiaomi/Gcam" 
-name="kapiljhajhria/vendor_xiaomi_gcam" remote="gitlab" revision="master"/>
+  <!-- //  <project path="vendor/xiaomi/Gcam" // -->
+<!--  //name="kapiljhajhria/vendor_xiaomi_gcam" remote="gitlab" revision="master"/> // -->
  <!-- My device tree -->
    <project path="vendor/xiaomi/whyred" name="kapiljhajhria/android_vendor_xiaomi_whyred" 
 remote="gt" revision="lineage-16.0"/>
