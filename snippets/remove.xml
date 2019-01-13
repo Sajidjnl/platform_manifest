@@ -15,6 +15,7 @@
 
   <!-- Packages repos -->
   <remove-project name="LineageOS/android_packages_apps_Settings" />
+  <remove-project name="LineageOS/android_packages_apps_Dialer" />
   <remove-project name="LineageOS/android_packages_services_Telecomm" />
   <remove-project name="LineageOS/android_packages_apps_Camera2" />
   <!-- Prebuilts -->
